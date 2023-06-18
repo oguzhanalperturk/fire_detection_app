@@ -7,11 +7,9 @@ import time
 # __name__ referring local python file that you are working on
 app = Flask(__name__)
 
-#HOST = "192.168.0.109"
-#HOST = "169.254.252.160"
-HOST = "127.0.0.1"
 
-PORT = 4000
+HOST = "169.254.252.160"
+PORT = 5000
 
 
 @app.route('/')
