@@ -1,0 +1,38 @@
+body{
+    height:300rem;
+  }
+  th,td{
+      text-align: center;
+  }
+  table{
+    font-size:larger;
+  }
+  #first_column{
+    display:flex; 
+    justify-content:center;
+  }
+  #stop_sensing_button{
+    position:fixed; 
+    margin-top:41%;
+    padding:1rem 2rem; 
+    font-size: larger;
+  }
+  #title{
+    text-align:center; 
+    margin-top:3rem;
+  }
+  .btn{
+    padding:1rem 2rem; 
+    font-size: larger; 
+    margin: 0rem 1rem;
+  }
+  #table_container{
+    margin-top:3rem;
+  }
+  #fire_image_buttons{
+    display:flex; 
+    justify-content: center;
+  }
+  .accuracy{
+    vertical-align: middle;
+  }

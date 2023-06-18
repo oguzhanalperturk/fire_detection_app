@@ -1,0 +1,13 @@
+h1{
+    text-align:center; 
+    margin-top:2rem;
+}
+#button_container{
+    display:flex; 
+    justify-content:center; 
+    margin-top: 8rem;
+}
+#start_sensing_button{
+    padding:1rem 2rem; 
+    font-size: larger;
+}

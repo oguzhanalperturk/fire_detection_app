@@ -1,0 +1,33 @@
+body{
+    height:150rem;
+}
+img{
+    width: 70%;
+}
+#image_div{
+    display: flex;
+    justify-content: center;
+}
+#first_column{
+    display:flex; 
+    justify-content:center;
+}
+#back_button_container{
+    display:flex; 
+    justify-content:center;
+}
+#back_button{
+    position:fixed; 
+    margin-top:41%;
+    padding:1rem 2rem; 
+    font-size: larger;
+}
+h1{
+    color:red; 
+    text-align:center; 
+    margin-top:3rem;
+}
+#fire_location{
+    text-align:center; 
+    margin-top:3rem;
+}
